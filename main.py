@@ -325,7 +325,7 @@ class App:
         self.start_time = None
         self.total_downloads = 0
         
-        self.root.title("Assist RAT Downloader by. Sojo & Cabelo (v2.3)")
+        self.root.title("Assist RAT Downloader (v2.4)")
         self.root.geometry("600x550")
         
         style = ttk.Style(self.root)
