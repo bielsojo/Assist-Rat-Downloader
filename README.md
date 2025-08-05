@@ -51,7 +51,8 @@ A ferramenta lê uma planilha simples onde os chamados são organizados por téc
 ## Screenshots
 
 <div align="center">
-  <img src="https://imgur.com/a/3DKGaqx" alt="Demonstração do App" width="600"/>
+  <img src="https://i.imgur.com/GCtGIIS.png" alt="Demonstração do App" width="700"/>
+  <p><i>Interface principal do Assist RAT Downloader</i></p>
 </div>
 
 
