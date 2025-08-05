@@ -51,7 +51,7 @@ A ferramenta lê uma planilha simples onde os chamados são organizados por téc
 ## Screenshots
 
 <div align="center">
-  <img src="URL_DA_SUA_IMAGEM_OU_GIF_AQUI" alt="Demonstração do App" width="600"/>
+  <img src="https://imgur.com/a/3DKGaqx" alt="Demonstração do App" width="600"/>
 </div>
 
 
