@@ -140,25 +140,6 @@ Durante o desenvolvimento desta ferramenta, foi identificada uma vulnerabilidade
 
 ---
 
-## Roadmap
-
-* [ ] Adicionar um painel de configuração dentro da GUI.
-* [ ] Suporte para importação de chamados a partir de arquivos `.csv`.
-* [ ] Empacotar a aplicação em um executável único para Windows, macOS e Linux.
-* [ ] Melhorar o relatório final, com estatísticas mais detalhadas.
-
-Veja as [issues abertas](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/issues) para uma lista completa de funcionalidades propostas (e bugs conhecidos).
-
-## Como Contribuir
-
-Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
-
-1.  Faça um **Fork** do Projeto.
-2.  Crie sua **Feature Branch** (`git checkout -b feature/AmazingFeature`).
-3.  Faça um **Commit** de suas mudanças (`git commit -m 'Add some AmazingFeature'`).
-4.  Faça um **Push** para a Branch (`git push origin feature/AmazingFeature`).
-5.  Abra um **Pull Request**.
-
 ## Licença
 
 Distribuído sob a Licença MIT. Veja `LICENSE.txt` para mais informações.
