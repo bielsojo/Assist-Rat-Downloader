@@ -143,6 +143,34 @@ Durante o desenvolvimento desta ferramenta, foi identificada uma vulnerabilidade
 
 Distribuído sob a Licença MIT. Veja `LICENSE.txt` para mais informações.
 
+---
 ## Autores
 
-* **Sojo & Cabelo** - *Desenvolvimento*
+Um projeto desenvolvido e mantido pelas seguintes pessoas:
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/bielsojo">
+        <img src="https://github.com/bielsojo.png" width="100px;" alt="Foto de Sojo no GitHub"/><br>
+        <sub>
+          <b>Gabriel Sojo</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Neekkyy">
+        <img src="https://github.com/Neekkyy.png" width="100px;" alt="Foto de Cabelo no GitHub"/><br>
+        <sub>
+          <b>Yuri Oliveira</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lluiiz">
+        <img src="https://github.com/lluiiz.png" width="100px;" alt="Foto de Cabelo no GitHub"/><br>
+        <sub>
+          <b>Luiz Victor</b>
+        </sub>
+  </tr>
+</table>
