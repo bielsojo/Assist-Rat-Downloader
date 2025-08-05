@@ -26,8 +26,6 @@
   * [Instalação](#instalação)
 * [Como Usar](#como-usar)
 * [⚠️ Aviso de Segurança](#-aviso-de-segurança)
-* [Roadmap](#roadmap)
-* [Como Contribuir](#como-contribuir)
 * [Licença](#licença)
 * [Autores](#autores)
 
