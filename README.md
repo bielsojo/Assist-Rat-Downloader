@@ -141,7 +141,7 @@ Durante o desenvolvimento desta ferramenta, foi identificada uma vulnerabilidade
 
 ## Licença
 
-Distribuído sob a Licença MIT. Veja `LICENSE.txt` para mais informações.
+Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
 
 ---
 ## Autores
