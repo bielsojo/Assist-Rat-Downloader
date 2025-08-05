@@ -77,8 +77,8 @@ Siga os passos abaixo para ter uma cópia do projeto rodando na sua máquina loc
 
 1.  **Clone o repositório (ou baixe os arquivos):**
     ```sh
-    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-    cd SEU_REPOSITORIO
+    git clone https://github.com/bielsojo/Assist-Rat-Downloader.git
+    cd Assist-Rat-Downloader
     ```
 
 2.  **Crie um ambiente virtual (recomendado):**
